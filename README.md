@@ -1,8 +1,8 @@
-# 🌟 Asif Shaikh | Automator & AI Enthusiast 🌟
+# 🌟 Rajif Shaikh | Automator & AI Enthusiast 🌟
 
 ![Profile Banner](https://i.pinimg.com/originals/48/06/28/4806281eb51778bda242a5bb90284a97.jpg)
 
-## 👋 Hey there! I'm Asif Shaikh
+## 👋 Hey there! I'm Rajif Shaikh
 
 Welcome to my GitHub profile! I'm passionate about **Automation** and **AI** and currently diving deep into **web development**. I love exploring new technologies and creating innovative solutions with the following languages:
 
